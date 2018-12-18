@@ -92,6 +92,7 @@ ggplot(data = year_count, mapping = aes(x = factor(year), y=count)) +
   
 ```
 
+
 The third item that we looked at was the number of reported Class A Bigfoot sightings per year. To do this, we gathered all of the sightings of Bigfoot date information and extracted the year. Then, we created a scatterplot based on year and number of sightings. We reduced the original size of the scatterplot from showing the data from 1890 to today and instead chose to narrow the scope of the data from 1997 onwards so as not to overwhelm the viewer with information. Our graph clearly revealed in what year you were most likely to spot Bigfoot. The peak number of Class A Bigfoot sightings,138, occurred in the year 2004. Unfortunately the overall pattern of sightings seems to be in decline, with a pretty steady decrease especially over the last four years and only 9 sightings in 2017. However, this is no cause for alarm. Do not despair, Bigfoot Seeker! His overall pattern of appearances seems to go up and down fairly frequently when you expand your look at his appearance data way back to the 1890s. Searching for Bigfoot now only means your sighting be more rare and special, and that your friends and family will be even more excited to hear about it.
 
 # Some Big(foot) Conclusions
